@@ -1,3 +1,3 @@
 # RIO_Example
 
-Regestered I/O Example Source & Information (korean)
+Registered I/O Example Source & Information (korean)
